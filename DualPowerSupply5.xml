@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Coep\IISER\Power Supply\PCB Design\DualPowerSupply5\DualPowerSupply5.kicad_sch</source>
+    <date>03-07-2024 15:43:15</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>DualPowerSupply5.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1200u</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cec5e450-2c1f-4278-9e15-0e4dd0e59c7a</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1200u</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f98ea15-f777-4644-b6ea-ab92466bde19</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70a86448-545c-47ad-951a-0475676dae73</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10u</value>
+      <footprint>LIB_10f_SMD:CAPC2012X135N</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a3afc47-ce8f-43b4-ba54-320f3cc4b3e4</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1200u</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d85f1c1-8a6a-4e3d-9959-d1c0374102ba</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1200u</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29324cb8-ba13-424b-a593-f33021dcefab</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1200u</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2621e777-061b-4001-be1f-ee25d292e543</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1200u</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef538802-1a40-4bf7-8edc-9fb39ae9f282</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1200u</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e58d7e2-4e5b-4e3a-b8b0-24c4ad3688ce</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eda4d113-df70-4c5d-85cf-24c6d4ed3d63</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10u</value>
+      <footprint>LIB_10f_SMD:CAPC2012X135N</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c54bdb05-7f99-49cf-b11c-3590634feeb0</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1u</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5a8228a-06c7-40ac-ab8f-16cabfe83f2c</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1u</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0bd7a68-f3b0-4169-a857-9409af119b4d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>2.2u</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00dde660-9735-4239-97b4-d92e9874ba4c</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10u</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b388c53-b9b8-4f28-b442-c52c30640521</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10u</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4418902-cdd4-4d6b-9d76-d54b106b3159</tstamps>
+    </comp>
+    <comp ref="CommonModeChoke1">
+      <value>SRF1280-100M</value>
+      <footprint>WE-SL274</footprint>
+      <datasheet>http://componentsearchengine.com/Datasheets/1/744223.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">744223</field>
+      </fields>
+      <libsource lib="744223" part="744223" description="SMD Common-Mode Line Filter WE-SL2"/>
+      <property name="Height" value=""/>
+      <property name="element14 Part Number" value=""/>
+      <property name="element14 Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="744223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="SMD Common-Mode Line Filter WE-SL2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04885763-55b5-43e3-ac86-414ce9ebb993</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>GBU4M</value>
+      <footprint>Diode_THT:Diode_Bridge_Vishay_GBU</footprint>
+      <datasheet>http://www.vishay.com/docs/88656/gbu4a.pdf</datasheet>
+      <libsource lib="Diode_Bridge" part="GBU4M" description="Single-Phase Bridge Rectifier, 700V Vrms, 4.0A If, GBU package"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Single-Phase Bridge Rectifier, 700V Vrms, 4.0A If, GBU package"/>
+      <property name="ki_keywords" value="rectifier acdc"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbcc1438-64cf-4ad9-a640-2168076ccde7</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4002</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N4002" description="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b9ef4c8-250c-4c05-b3fc-aedaa9e48d27</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4002</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N4002" description="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a49cd47-3689-477b-b458-21e44afcf510</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4002</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N4002" description="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a151bf92-6385-4c95-83f5-22a9e4a58361</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4002</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N4002" description="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bc1118a-1873-4feb-b8a6-0462ff423747</tstamps>
+    </comp>
+    <comp ref="DifferentialChoke1">
+      <value>744223</value>
+      <footprint>WE-SL274</footprint>
+      <datasheet>http://componentsearchengine.com/Datasheets/1/744223.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">744223</field>
+      </fields>
+      <libsource lib="744223" part="744223" description="SMD Common-Mode Line Filter WE-SL2"/>
+      <property name="Height" value=""/>
+      <property name="element14 Part Number" value=""/>
+      <property name="element14 Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="744223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="SMD Common-Mode Line Filter WE-SL2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3632772e-fb21-4756-a825-c8ec35a5062f</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>500mA, 250V</value>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a664bcf8-4d65-4ca2-bae7-371f03b2015c</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>LT3080IT#PBF</value>
+      <footprint>LT3080:TO170P457X1022X2306-5P</footprint>
+      <datasheet>https://www.analog.com/LT3080/datasheet</datasheet>
+      <fields>
+        <field name="Height">4.572</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">LT3080IT#PBF</field>
+      </fields>
+      <libsource lib="LT3080IT#PBF" part="LT3080IT#PBF" description="Linear Voltage Regulator IC Positive Adjustable 1 Output 1.1A TO-220-5"/>
+      <property name="Height" value="4.572"/>
+      <property name="element14 Part Number" value=""/>
+      <property name="element14 Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="LT3080IT#PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Linear Voltage Regulator IC Positive Adjustable 1 Output 1.1A TO-220-5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4eaa237-7a8f-42b0-a6b6-8fe38be1ef1d</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>LT3015ET#PBF</value>
+      <footprint>LT3015:TO170P457X1022X2306-5P</footprint>
+      <datasheet>http://www.linear.com/docs/39918</datasheet>
+      <fields>
+        <field name="Height">4.572</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">LT3015ET#PBF</field>
+      </fields>
+      <libsource lib="LT3015ET#PBF" part="LT3015ET#PBF" description="1.5A, Low Noise, Negative Linear Regulator with Precision Current Limit"/>
+      <property name="Height" value="4.572"/>
+      <property name="element14 Part Number" value=""/>
+      <property name="element14 Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="LT3015ET#PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="1.5A, Low Noise, Negative Linear Regulator with Precision Current Limit"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f19fefd4-108b-4511-adb0-6b965e75610c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x03_Socket</value>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff70f1e4-7470-4531-b49b-fdd6058bbc10</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x03_Socket</value>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9df5ed0-ce1f-40fe-98d5-72c750c3ec15</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BD679AG_TO126</value>
+      <footprint>Package_TO_SOT_THT:TO-126-3_Vertical</footprint>
+      <libsource lib="Device" part="Q_NPN_Darlington_ECB" description="NPN Darlington transistor, emitter/collector/base"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="NPN Darlington transistor, emitter/collector/base"/>
+      <property name="ki_keywords" value="transistor NPN Darlington"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa909c63-f125-4fff-b148-5e3e57670242</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BD680A_TO126-3</value>
+      <footprint>Package_TO_SOT_THT:TO-126-3_Vertical</footprint>
+      <libsource lib="Device" part="Q_PNP_Darlington_ECB" description="PNP Darlington transistor, emitter/collector/base"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="PNP Darlington transistor, emitter/collector/base"/>
+      <property name="ki_keywords" value="transistor PNP Darlington"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>156b1cb0-a758-4b44-bacc-0ffc07432514</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>240</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10010913-487c-4afa-b95d-03e6674b79c1</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>820</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b05e581c-07e7-494b-9567-492793515143</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>820</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0c8e3f1-c36f-4b59-b3f7-b749f157939e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>240</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>965d0a25-4951-401f-a9ea-06ba0ceaf249</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>20</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cf31a59-7598-4094-b296-8e47168275d1</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>20</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9022ab63-296f-411d-ad0d-8fc2595ccfdf</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>500k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a29977aa-580e-4006-9352-c49b628ef83c</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>12.1k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5216e85c-b930-4a73-b12c-7dbde6baeb17</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>37.4k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>770871ca-69e5-43ac-a330-d5a17ab03afe</tstamps>
+    </comp>
+    <comp ref="T2">
+      <value>44381</value>
+      <footprint>44381:44381</footprint>
+      <fields>
+        <field name="Height">49</field>
+        <field name="Manufacturer_Name">MYRRA</field>
+        <field name="Manufacturer_Part_Number">44381</field>
+      </fields>
+      <libsource lib="44381" part="44381" description="12 V ac 2 Output Through Hole PCB Transformer, 30VA"/>
+      <property name="Height" value="49"/>
+      <property name="element14 Part Number" value=""/>
+      <property name="element14 Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="MYRRA"/>
+      <property name="Manufacturer_Part_Number" value="44381"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="12 V ac 2 Output Through Hole PCB Transformer, 30VA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9099292a-b2d9-421e-ac69-59fd69a2081f</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM317_TO-220</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm317.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LM317_TO-220" description="1.5A 35V Adjustable Linear Regulator, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="1.5A 35V Adjustable Linear Regulator, TO-220"/>
+      <property name="ki_keywords" value="Adjustable Voltage Regulator 1A Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7bdc8c9-23df-42fe-b0fb-f97947080c69</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM337_TO220</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm337-n.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LM337_TO220" description="Negative 1.5A 35V Adjustable Linear Regulator, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Negative 1.5A 35V Adjustable Linear Regulator, TO-220"/>
+      <property name="ki_keywords" value="Adjustable Voltage Regulator 1.5A Negative"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7de41d7-28c0-401f-9e23-98cf18f47cbd</tstamps>
+    </comp>
+    <comp ref="V275LA40AP1">
+      <value>MOV</value>
+      <fields>
+        <field name="Sim.Device">SUBCKT</field>
+        <field name="Sim.Library">${KICAD7_SYMBOL_DIR}/Simulation_SPICE.sp</field>
+        <field name="Sim.Name">kicad_builtin_varistor</field>
+        <field name="Sim.Params">threshold=1k</field>
+        <field name="Sim.Pins">1=A 2=B</field>
+      </fields>
+      <libsource lib="Device" part="Varistor" description="Voltage dependent resistor"/>
+      <property name="Sim.Name" value="kicad_builtin_varistor"/>
+      <property name="Sim.Device" value="SUBCKT"/>
+      <property name="Sim.Pins" value="1=A 2=B"/>
+      <property name="Sim.Params" value="threshold=1k"/>
+      <property name="Sim.Library" value="${KICAD7_SYMBOL_DIR}/Simulation_SPICE.sp"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Voltage dependent resistor"/>
+      <property name="ki_keywords" value="VDR resistance"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02b9d377-8865-4e79-9ccf-fbe0dfd19441</tstamps>
+    </comp>
+    <comp ref="XC1">
+      <value>0.1u</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1566fc97-188c-4704-8d10-fe0839637471</tstamps>
+    </comp>
+    <comp ref="XC2_1">
+      <value>0.1u</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c4d6592-9259-41ab-b20b-6e2a75eb4319</tstamps>
+    </comp>
+    <comp ref="YC2_1">
+      <value>4700p</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5f047d9-bb7c-4fd9-baa2-45f94e808493</tstamps>
+    </comp>
+    <comp ref="YC2_2">
+      <value>4700p</value>
+      <footprint>SMD1uCap:C0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DualPowerSupply5.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9155bbac-ac42-4c69-8a2e-3ef883a4ce67</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="44381" part="44381">
+      <description>12 V ac 2 Output Through Hole PCB Transformer, 30VA</description>
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">44381</field>
+        <field name="Footprint">44381</field>
+        <field name="Height">49</field>
+        <field name="Manufacturer_Name">MYRRA</field>
+        <field name="Manufacturer_Part_Number">44381</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PRI_1" type="passive"/>
+        <pin num="8" name="PRI_2" type="passive"/>
+        <pin num="9" name="SEC_1" type="passive"/>
+        <pin num="10" name="SEC_2" type="passive"/>
+        <pin num="15" name="SEC_3" type="passive"/>
+        <pin num="16" name="SEC_4" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="744223" part="744223">
+      <description>SMD Common-Mode Line Filter WE-SL2</description>
+      <docs>http://componentsearchengine.com/Datasheets/1/744223.pdf</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">744223</field>
+        <field name="Footprint">WE-SL274</field>
+        <field name="Datasheet">http://componentsearchengine.com/Datasheets/1/744223.pdf</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">744223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="3" type="passive"/>
+        <pin num="3" name="4" type="passive"/>
+        <pin num="4" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Socket">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_Darlington_ECB">
+      <description>NPN Darlington transistor, emitter/collector/base</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_Darlington_ECB</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PNP_Darlington_ECB">
+      <description>PNP Darlington transistor, emitter/collector/base</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PNP_Darlington_ECB</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Varistor">
+      <description>Voltage dependent resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RV_*</fp>
+        <fp>Varistor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">Varistor</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Name">kicad_builtin_varistor</field>
+        <field name="Sim.Device">SUBCKT</field>
+        <field name="Sim.Pins">1=A 2=B</field>
+        <field name="Sim.Params">threshold=1k</field>
+        <field name="Sim.Library">${KICAD7_SYMBOL_DIR}/Simulation_SPICE.sp</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4002">
+      <description>100V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4002</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode_Bridge" part="GBU4M">
+      <description>Single-Phase Bridge Rectifier, 700V Vrms, 4.0A If, GBU package</description>
+      <docs>http://www.vishay.com/docs/88656/gbu4a.pdf</docs>
+      <footprints>
+        <fp>Diode*Bridge*Vishay*GBU*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">GBU4M</field>
+        <field name="Footprint">Diode_THT:Diode_Bridge_Vishay_GBU</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88656/gbu4a.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LT3015ET#PBF" part="LT3015ET#PBF">
+      <description>1.5A, Low Noise, Negative Linear Regulator with Precision Current Limit</description>
+      <docs>http://www.linear.com/docs/39918</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LT3015ET#PBF</field>
+        <field name="Footprint">TO170P457X1022X2306-5P</field>
+        <field name="Datasheet">http://www.linear.com/docs/39918</field>
+        <field name="Height">4.572</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">LT3015ET#PBF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{SHDN}" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="IN" type="passive"/>
+        <pin num="4" name="SENSE/ADJ" type="passive"/>
+        <pin num="5" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LT3080IT#PBF" part="LT3080IT#PBF">
+      <description>Linear Voltage Regulator IC Positive Adjustable 1 Output 1.1A TO-220-5</description>
+      <docs>https://www.analog.com/LT3080/datasheet</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LT3080IT#PBF</field>
+        <field name="Footprint">TO170P457X1022X2306-5P</field>
+        <field name="Datasheet">https://www.analog.com/LT3080/datasheet</field>
+        <field name="Height">4.572</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">LT3080IT#PBF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="SET" type="passive"/>
+        <pin num="3" name="OUT" type="passive"/>
+        <pin num="4" name="VCONTROL" type="passive"/>
+        <pin num="5" name="IN" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM317_TO-220">
+      <description>1.5A 35V Adjustable Linear Regulator, TO-220</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm317.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM317_TO-220</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm317.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM337_TO220">
+      <description>Negative 1.5A 35V Adjustable Linear Regulator, TO-220</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm337-n.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM337_TO220</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm337-n.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VI" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="44381">
+      <uri>D:/Coep/IISER/Power Supply/PCB Design/Footprints/LIB_44381/44381/44381/44381.kicad_sym</uri>
+    </library>
+    <library logical="744223">
+      <uri>D:/Coep/IISER/Power Supply/PCB Design/Footprints/LIB_744223/744223/Diiferential Choke/744223.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Diode_Bridge">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode_Bridge.kicad_sym</uri>
+    </library>
+    <library logical="LT3015ET#PBF">
+      <uri>D:/Coep/IISER/Power Supply/PCB Design/Footprints/LIB_LT3015ET#PBF/LT3015ET#PBF/KiCad/LT3015ET#PBF.kicad_sym</uri>
+    </library>
+    <library logical="LT3080IT#PBF">
+      <uri>D:/Coep/IISER/Power Supply/PCB Design/Footprints/LIB_LT3080IT#PBF/LT3080IT#PBF/LT3080/LT3080IT#PBF.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Primary1">
+      <node ref="CommonModeChoke1" pin="3" pinfunction="4" pintype="passive"/>
+      <node ref="CommonModeChoke1" pin="4" pinfunction="2" pintype="passive"/>
+      <node ref="T2" pin="1" pinfunction="PRI_1" pintype="passive"/>
+      <node ref="T2" pin="8" pinfunction="PRI_2" pintype="passive"/>
+      <node ref="XC2_1" pin="1" pintype="passive"/>
+      <node ref="XC2_1" pin="2" pintype="passive"/>
+      <node ref="YC2_1" pin="1" pintype="passive"/>
+      <node ref="YC2_2" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="Earth">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="YC2_1" pin="2" pintype="passive"/>
+      <node ref="YC2_2" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="T2" pin="10" pinfunction="SEC_2" pintype="passive"/>
+      <node ref="T2" pin="15" pinfunction="SEC_3" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(CommonModeChoke1-3)">
+      <node ref="CommonModeChoke1" pin="2" pinfunction="3" pintype="passive"/>
+      <node ref="DifferentialChoke1" pin="3" pinfunction="4" pintype="passive"/>
+      <node ref="XC1" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D1-+)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D1--)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D1" pin="4" pinfunction="-" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D2-A)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="ADJ" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(D2-K)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC3" pin="4" pinfunction="VCONTROL" pintype="passive"/>
+      <node ref="IC3" pin="5" pinfunction="IN" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="9" name="Net-(D3-A)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="ADJ" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(D3-K)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC4" pin="1" pinfunction="~{SHDN}" pintype="passive"/>
+      <node ref="IC4" pin="3" pinfunction="IN" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="11" name="Net-(D4-K)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="12" name="Net-(D5-K)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="13" name="Net-(DifferentialChoke1-2)">
+      <node ref="CommonModeChoke1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="DifferentialChoke1" pin="4" pinfunction="2" pintype="passive"/>
+      <node ref="XC1" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(DifferentialChoke1-3)">
+      <node ref="DifferentialChoke1" pin="2" pinfunction="3" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="V275LA40AP1" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(DifferentialChoke1-Pad1)">
+      <node ref="DifferentialChoke1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="V275LA40AP1" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(IC3-OUT)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="IC3" pin="3" pinfunction="OUT" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(IC3-SET)">
+      <node ref="IC3" pin="2" pinfunction="SET" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(IC4-OUT)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="IC4" pin="5" pinfunction="OUT" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(IC4-SENSE{slash}ADJ)">
+      <node ref="IC4" pin="4" pinfunction="SENSE/ADJ" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(J2-Pin_3)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q1-B)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Q2-B)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(T2-SEC_1)">
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="T2" pin="9" pinfunction="SEC_1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(T2-SEC_4)">
+      <node ref="D1" pin="3" pintype="passive"/>
+      <node ref="T2" pin="16" pinfunction="SEC_4" pintype="passive"/>
+    </net>
+    <net code="25" name="unconnected-(IC3-NC-Pad1)">
+      <node ref="IC3" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(T2-PadMH1)">
+      <node ref="T2" pin="MH1" pinfunction="MH1" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(T2-PadMH2)">
+      <node ref="T2" pin="MH2" pinfunction="MH2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
